@@ -1,0 +1,15 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+newspaper3k
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+typer
